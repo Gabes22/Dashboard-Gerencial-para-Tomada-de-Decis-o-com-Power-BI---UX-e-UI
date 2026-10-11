@@ -35,10 +35,10 @@ O fundo do relatório trazia a imagem estática de uma borracha azul que não ex
 ## 📐 Visualização do Projeto Finalizado
 
 ### 1. Home Page (Capa de Entrada)
-![Capa do Relatório](home_page.png)
+![Capa do Relatório](/imagens/home_page.png)
 
 ### 2. Dashboard de Vendas (Visão Geral)
-![Dashboard de Vendas](relatorio_vendas.png)
+![Dashboard de Vendas](/imagens/relatorio_vendas.png)
 
 ### 3. Análise de Lucro (Visão de Rentabilidade)
 ![Análise de Lucro](/imagens/analise_lucro.png)
