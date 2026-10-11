@@ -41,7 +41,7 @@ O fundo do relatório trazia a imagem estática de uma borracha azul que não ex
 ![Dashboard de Vendas](insira_aqui_o_link_do_print_de_vendas.png)
 
 ### 3. Análise de Lucro (Visão de Rentabilidade)
-![Análise de Lucro](insira_aqui_o_link_do_print_de_lucros.png)
+![Análise de Lucro](/imagens/analise_lucro.png)
 
 ---
 
